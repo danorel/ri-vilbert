@@ -1,6 +1,6 @@
-# foobar
+# ri-vilbert
 
-foobar is a Python project for dealing with ...
+ri-vilbert is a Python project which attempts to repeat the success of ViLBERT model.
 
 ## Installation & Contributing
 
